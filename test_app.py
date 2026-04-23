@@ -14,3 +14,6 @@ def test_add_string():
 
 def test_add_list():
     assert add([1,2], [3,4]) == [1,2,3,4]
+
+def anger():
+    divide(5,0)
