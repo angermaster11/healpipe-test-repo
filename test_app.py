@@ -20,3 +20,6 @@ def test_divide_by_zero():
 
 def test_divide_by_zero():
     divide(5,0)
+
+def test_divide_by_zero():
+    divide(5,0)
