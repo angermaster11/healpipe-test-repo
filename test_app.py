@@ -13,8 +13,4 @@ def test_add_string():
     assert add("a ", "b") == "ab"
 
 def test_divide_by_zero():
-    divide(5,1)
-
-
-def test_divide_by_zero():
     divide(5,0)
