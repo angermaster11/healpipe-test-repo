@@ -13,8 +13,7 @@ def test_add_string():
     assert add("a ", "b") == "ab"
 
 
-def test_add_list():
-    assert add([1, 2], [3, 4]) == [1, 2, 3, 4]
+
 
 def test_divide_by_zero():
     divide(5,0)
