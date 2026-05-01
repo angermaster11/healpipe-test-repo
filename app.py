@@ -6,10 +6,9 @@ def add(a, b):
 def divide(a, b):
     return np.divide(a, b)
 
-def sum(a,b){
-    return a+b;
-}
+app.py
+def sum(a,b):
+    return a+b
 
-for (int i=0; i<10; i++){
-    print(i);
-}
+for i in range(10):
+    print(i)
